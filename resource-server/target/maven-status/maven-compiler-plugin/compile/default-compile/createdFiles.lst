@@ -1,0 +1,8 @@
+com\example\resourceserver\controller\ScopesController.class
+com\example\resourceserver\ResourceServerApplication.class
+com\example\resourceserver\config\ResourceServerSecurityConfig.class
+com\example\resourceserver\config\JwtClaimsConverter.class
+com\example\resourceserver\controller\CallbackController.class
+com\example\resourceserver\config\SwaggerConfig.class
+com\example\resourceserver\controller\PublicController.class
+com\example\resourceserver\controller\RolesController.class

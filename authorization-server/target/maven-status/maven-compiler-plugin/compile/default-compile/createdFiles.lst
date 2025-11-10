@@ -1,0 +1,4 @@
+com\example\authorizationserver\controller\LoginController.class
+com\example\authorizationserver\AuthorizationServerApplication.class
+com\example\authorizationserver\config\AuthorizationServerConfig.class
+com\example\authorizationserver\config\JwtClaimsCustomizer.class
