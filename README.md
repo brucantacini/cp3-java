@@ -7,7 +7,6 @@ cp3/
 ├── authorization-server/    # Servidor de Autorização (porta 9000)
 ├── resource-server/         # Servidor de Recursos (porta 8080)
 ├── cp3.md                  # Instruções do checkpoint
-└── PLANO_IMPLEMENTACAO.txt # Plano de implementação
 ```
 
 ## Como Executar
